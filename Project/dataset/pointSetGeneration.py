@@ -3,7 +3,7 @@ import numpy as np
 
 if __name__ == "__main__":
     point_num = 10000
-    output_file_name = "pointDataSet.csv"
+    output_file_name = "pointDataSet/pointDataSet.csv"
     if len(sys.argv) >= 2:
         point_num = int(sys.argv[1])
 
