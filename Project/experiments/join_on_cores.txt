@@ -1,0 +1,126 @@
+1 cores:
+join_on_cores cost time: 255.593 s
+join_on_cores cost time: 244.530 s
+join_on_cores cost time: 232.091 s
+join_on_cores cost time: 232.787 s
+join_on_cores cost time: 228.138 s
+4 cores:
+join_on_cores cost time: 154.105 s
+join_on_cores cost time: 121.010 s
+join_on_cores cost time: 136.418 s
+join_on_cores cost time: 123.966 s
+join_on_cores cost time: 126.919 s
+7 cores:
+join_on_cores cost time: 134.533 s
+join_on_cores cost time: 144.056 s
+join_on_cores cost time: 135.348 s
+join_on_cores cost time: 147.300 s
+join_on_cores cost time: 147.609 s
+10 cores:
+join_on_cores cost time: 132.228 s
+join_on_cores cost time: 130.143 s
+join_on_cores cost time: 125.373 s
+join_on_cores cost time: 132.520 s
+join_on_cores cost time: 123.933 s
+13 cores:
+join_on_cores cost time: 133.868 s
+join_on_cores cost time: 131.358 s
+join_on_cores cost time: 124.969 s
+join_on_cores cost time: 118.787 s
+join_on_cores cost time: 123.814 s
+16 cores:
+join_on_cores cost time: 133.445 s
+join_on_cores cost time: 135.191 s
+join_on_cores cost time: 124.435 s
+join_on_cores cost time: 138.073 s
+join_on_cores cost time: 133.193 s
+19 cores:
+join_on_cores cost time: 143.380 s
+join_on_cores cost time: 146.850 s
+join_on_cores cost time: 131.049 s
+join_on_cores cost time: 127.204 s
+join_on_cores cost time: 121.138 s
+22 cores:
+join_on_cores cost time: 137.076 s
+join_on_cores cost time: 127.583 s
+join_on_cores cost time: 131.271 s
+join_on_cores cost time: 137.082 s
+join_on_cores cost time: 135.172 s
+25 cores:
+join_on_cores cost time: 134.225 s
+join_on_cores cost time: 127.983 s
+join_on_cores cost time: 128.417 s
+join_on_cores cost time: 156.344 s
+join_on_cores cost time: 144.491 s
+28 cores:
+join_on_cores cost time: 133.057 s
+join_on_cores cost time: 125.382 s
+join_on_cores cost time: 132.781 s
+join_on_cores cost time: 143.823 s
+join_on_cores cost time: 123.492 s
+31 cores:
+join_on_cores cost time: 128.869 s
+join_on_cores cost time: 129.219 s
+join_on_cores cost time: 152.390 s
+join_on_cores cost time: 135.954 s
+join_on_cores cost time: 138.340 s
+34 cores:
+join_on_cores cost time: 134.486 s
+join_on_cores cost time: 136.611 s
+join_on_cores cost time: 127.198 s
+join_on_cores cost time: 129.803 s
+join_on_cores cost time: 134.276 s
+37 cores:
+join_on_cores cost time: 136.219 s
+join_on_cores cost time: 130.255 s
+join_on_cores cost time: 128.332 s
+join_on_cores cost time: 137.224 s
+join_on_cores cost time: 125.362 s
+40 cores:
+join_on_cores cost time: 133.252 s
+join_on_cores cost time: 119.258 s
+join_on_cores cost time: 128.132 s
+join_on_cores cost time: 138.370 s
+join_on_cores cost time: 128.503 s
+43 cores:
+join_on_cores cost time: 123.846 s
+join_on_cores cost time: 129.560 s
+join_on_cores cost time: 123.165 s
+join_on_cores cost time: 127.874 s
+join_on_cores cost time: 135.390 s
+46 cores:
+join_on_cores cost time: 129.556 s
+join_on_cores cost time: 133.773 s
+join_on_cores cost time: 130.426 s
+join_on_cores cost time: 132.310 s
+join_on_cores cost time: 133.062 s
+49 cores:
+join_on_cores cost time: 136.903 s
+join_on_cores cost time: 127.986 s
+join_on_cores cost time: 126.483 s
+join_on_cores cost time: 125.998 s
+join_on_cores cost time: 163.570 s
+52 cores:
+join_on_cores cost time: 140.582 s
+join_on_cores cost time: 130.733 s
+join_on_cores cost time: 143.649 s
+join_on_cores cost time: 134.627 s
+join_on_cores cost time: 135.047 s
+55 cores:
+join_on_cores cost time: 130.920 s
+join_on_cores cost time: 129.151 s
+join_on_cores cost time: 138.151 s
+join_on_cores cost time: 135.527 s
+join_on_cores cost time: 131.420 s
+58 cores:
+join_on_cores cost time: 128.699 s
+join_on_cores cost time: 127.178 s
+join_on_cores cost time: 128.499 s
+join_on_cores cost time: 134.104 s
+join_on_cores cost time: 122.881 s
+61 cores:
+join_on_cores cost time: 132.875 s
+join_on_cores cost time: 131.227 s
+join_on_cores cost time: 139.250 s
+join_on_cores cost time: 121.119 s
+join_on_cores cost time: 118.451 s

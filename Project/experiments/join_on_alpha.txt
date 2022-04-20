@@ -1,0 +1,90 @@
+alpha 1p1:
+join_on_alpha cost time: 7.978 s
+join_on_alpha cost time: 7.637 s
+join_on_alpha cost time: 6.673 s
+join_on_alpha cost time: 6.736 s
+join_on_alpha cost time: 6.397 s
+alpha 1p2:
+join_on_alpha cost time: 15.541 s
+join_on_alpha cost time: 16.863 s
+join_on_alpha cost time: 17.514 s
+join_on_alpha cost time: 16.005 s
+join_on_alpha cost time: 16.911 s
+alpha 1p3:
+join_on_alpha cost time: 26.167 s
+join_on_alpha cost time: 23.181 s
+join_on_alpha cost time: 23.889 s
+join_on_alpha cost time: 25.865 s
+join_on_alpha cost time: 24.062 s
+alpha 1p4:
+join_on_alpha cost time: 31.065 s
+join_on_alpha cost time: 31.351 s
+join_on_alpha cost time: 31.376 s
+join_on_alpha cost time: 31.410 s
+join_on_alpha cost time: 33.422 s
+alpha 1p5:
+join_on_alpha cost time: 40.788 s
+join_on_alpha cost time: 38.110 s
+join_on_alpha cost time: 39.540 s
+join_on_alpha cost time: 39.451 s
+join_on_alpha cost time: 41.746 s
+alpha 1p6:
+join_on_alpha cost time: 43.981 s
+join_on_alpha cost time: 43.349 s
+join_on_alpha cost time: 47.913 s
+join_on_alpha cost time: 46.908 s
+join_on_alpha cost time: 46.023 s
+alpha 1p7:
+join_on_alpha cost time: 47.247 s
+join_on_alpha cost time: 51.770 s
+join_on_alpha cost time: 48.665 s
+join_on_alpha cost time: 53.240 s
+join_on_alpha cost time: 53.782 s
+alpha 1p8:
+join_on_alpha cost time: 59.017 s
+join_on_alpha cost time: 52.775 s
+join_on_alpha cost time: 54.324 s
+join_on_alpha cost time: 55.568 s
+join_on_alpha cost time: 55.330 s
+alpha 1p9:
+join_on_alpha cost time: 62.598 s
+join_on_alpha cost time: 54.940 s
+join_on_alpha cost time: 58.888 s
+join_on_alpha cost time: 65.247 s
+join_on_alpha cost time: 58.911 s
+alpha 2p0:
+join_on_alpha cost time: 64.070 s
+join_on_alpha cost time: 67.056 s
+join_on_alpha cost time: 63.406 s
+join_on_alpha cost time: 65.048 s
+join_on_alpha cost time: 66.670 s
+alpha 2p1:
+join_on_alpha cost time: 69.245 s
+join_on_alpha cost time: 72.723 s
+join_on_alpha cost time: 66.740 s
+join_on_alpha cost time: 65.065 s
+join_on_alpha cost time: 69.263 s
+alpha 2p2:
+join_on_alpha cost time: 77.735 s
+join_on_alpha cost time: 72.982 s
+join_on_alpha cost time: 71.375 s
+join_on_alpha cost time: 73.531 s
+join_on_alpha cost time: 73.934 s
+alpha 2p3:
+join_on_alpha cost time: 77.570 s
+join_on_alpha cost time: 80.059 s
+join_on_alpha cost time: 73.364 s
+join_on_alpha cost time: 77.436 s
+join_on_alpha cost time: 74.112 s
+alpha 2p4:
+join_on_alpha cost time: 80.792 s
+join_on_alpha cost time: 77.903 s
+join_on_alpha cost time: 83.584 s
+join_on_alpha cost time: 79.457 s
+join_on_alpha cost time: 82.084 s
+alpha 2p5:
+join_on_alpha cost time: 78.425 s
+join_on_alpha cost time: 84.785 s
+join_on_alpha cost time: 85.316 s
+join_on_alpha cost time: 80.204 s
+join_on_alpha cost time: 76.331 s
